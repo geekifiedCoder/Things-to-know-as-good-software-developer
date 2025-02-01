@@ -122,5 +122,3 @@ Backend technologies for server-side logic:
 - **Tabnine** – AI-powered autocomplete.  
 
 ---
-
-Would you like recommendations for a specific career path (e.g., web development, mobile development, AI, DevOps)? 🚀
